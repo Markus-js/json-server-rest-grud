@@ -1,16 +1,42 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "bs": "harness real-time e-markets"
+      }
     }
   ],
-  "comments" : [
+  "posts": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "userId": 1,
+      "id": 1,
+      "title": "Vercel",
+      "body": "Versel opkøber Svelte"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "Mircrosoft",
+      "body": "body indhold"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "title",
+      "body": "body indhold"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "title",
+      "body": "body indhold"
     }
   ]
 }
