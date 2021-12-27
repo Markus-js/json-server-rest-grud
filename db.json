@@ -7,7 +7,8 @@
     },
      {
       "id": 1,
-      "username": "Bret",
+      "username": "admin",
+       "password":"admin",
       "isLogin": "false"
     }
   ],
