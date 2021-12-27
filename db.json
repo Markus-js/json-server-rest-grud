@@ -4,6 +4,11 @@
       "id": 1,
       "username": "Bret",
       "isLogin": "false"
+    },
+     {
+      "id": 1,
+      "username": "Bret",
+      "isLogin": "false"
     }
   ],
   "posts": [
