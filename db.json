@@ -1,15 +1,53 @@
+
 {
   "users": [
     {
       "id": 1,
+      "name": "Leanne Graham",
       "username": "Bret",
-      "isLogin": "false"
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "bs": "harness real-time e-markets"
+      }
     },
-     {
-      "id": 1,
+    {
+      "isLogin": "false",
+      "isAdmin": "false",
+      "username": "user",
+      "password": "admin",
+      "profileImage": "https://thumbs.dreamstime.com/b/happy-person-portrait-smiling-woman-tanned-skin-curly-hair-happy-person-portrait-smiling-young-friendly-woman-197501184.jpg",
+      "name": "Jane Angelo",
+      "id": 2
+    },
+    {
+      "isLogin": "false",
+      "isAdmin": "true",
       "username": "admin",
-       "password":"admin",
-      "isLogin": "false"
+      "password": "admin",
+      "profileImage": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
+      "name": "Louise Robert",
+      "id": 3
+    },
+    {
+      "isLogin": "false",
+      "isAdmin": "false",
+      "username": "maba",
+      "password": "markus",
+      "profileImage": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "name": "Liam Pérez",
+      "id": 4
+    },
+    {
+      "isLogin": "false",
+      "isAdmin": "false",
+      "username": "user1",
+      "password": "markus",
+      "profileImage": "https://thumbs.dreamstime.com/b/closeup-portrait-serious-years-old-caucasian-white-man-white-background-white-t-shirt-confident-happy-smart-modern-man-167196461.jpg",
+      "name": "William Kristensen",
+      "id": 5
     }
   ],
   "posts": [
@@ -23,7 +61,13 @@
       "userId": 2,
       "id": 2,
       "title": "Mircrosoft",
-      "body": "<h2>h1 test</h1>"
+      "body": "body indhold"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "title",
+      "body": "body indhold"
     },
     {
       "userId": 1,
@@ -32,10 +76,60 @@
       "body": "body indhold"
     },
     {
-      "userId": 1,
-      "id": 3,
-      "title": "title",
-      "body": "body indhold"
+      "userId": 2,
+      "title": "React Conf 2021 Recap",
+      "body": "<p>Last week we hosted our 6th React Conf. In previous years, we’ve used the React Conf stage to deliver industry changing announcements such as <em>React Native</em> and <em>React Hooks</em>. This year, we shared our multi-platform vision for React, starting with the release of React 18 and gradual adoption of concurrent features.</p><p>This was the first time React Conf was hosted online, and it was streamed for free, translated to 8 different languages. Participants from all over the world joined our conference Discord and the replay event for accessibility in all timezones. Over 50,000 people registered, with over 60,000 views of 19 talks, and 5,000 participants in Discord across both events.</p><p>All the talks are available to stream online.</p><p>Here’s a summary of what was shared on stage:</p>",
+      "image": "https://reactjs.org/logo-og.png",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "The Plan for React 18",
+      "body": "<p>The React team is excited to share a few updates:</p><ol><li><p>We’ve started work on the React 18 release, which will be our next major version.</p></li><li><p>We’ve created a Working Group to prepare the community for gradual adoption of new features in React 18.</p></li><li><p>We’ve published a React 18 Alpha so that library authors can try it and provide feedback.</p></li></ol><p>These updates are primarily aimed at maintainers of third-party libraries. If you’re learning, teaching, or using React to build user-facing applications, you can safely ignore this post. But you are welcome to follow the discussions in the React 18 Working Group if you’re curious!</p>",
+      "image": "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "title": "Svelte: December 2021",
+      "body": "<h1>With SvelteKit getting more and more stable each day, there's not much to cover in terms of code changes other than bug fixes... So, in this month's newsletter, we'll be covering Svelte Summit Fall 2021!</h1><p>If you want to dive deep into the last month's worth of bug fixes, check out the Svelte and SvelteKit changelogs, respectively.</p><h2>What happened at Svelte Summit?</h2><p>If you missed Svelte Summit, you can watch the entire live stream on YouTube and catch a recap in the #svelte-summit channel on Discord.</p><p>Here are the highlights:</p><ul><li><p>Rich Harris took us through a tour of Svelte's history and announced his move to Vercel - where he will be helping maintain Svelte full-time! (20:00)</p></li><li><p>Steph Dietz explained how Svelte's simple abstractions makes it easy for beginners and experts alike to learn and use JavaScript - without the boilerplate (29:00)</p></li><li><p>Kevin Bridges dove deep into Svelte's reactivity logic by visualizing it through <code>ReflectiveCounter</code> and showing how to \"fine tune\" it, as needed. A full \"syllabus\" for the presentation is available on Kevin's site. (42:55)</p></li><li><p>Mateo Morris launched Primo, an all-in-one SvelteKit CMS to help build and manage static sites (1:12:34)</p></li><li><p>Guillermo Rauch explained Vercel's commitment to Svelte, what it means to have Rich on the team, and what's coming next from the company... (1:21:54)</p></li><li><p>Geoff Rich introduced various ways to modify motion and transitions within Svelte to be more accessible to all users of the web. Slides and a full transcription of the talk are available on Geoff's site. (1:32:30)</p></li><li><p>Dean Fogarty demoed a number of different use-cases for custom stores - transforming data to and from storage mechanisms within Svelte. Transcript and code is available on Dean's GitHub. (1:43:06)</p></li><li><p>Kellen Mace shared how we can let content creators keep using WordPress, while leveraging Svelte on the frontend to provide a phenomenal user experience (1:49:30)</p></li><li><p>Ben Holmes explained the \"islands\" architecture and how 11ty + Slinkity can bring these islands to any HTML template (2:17:15)</p></li><li><p>Scott Tolinski shared the lessons learned from rewriting the React-based LevelUpTutorials in Svelte and \"found developer bliss\" (3:16:35)</p></li><li><p>Svelte Sirens was announced as the new Svelte community for women, non-binary and allies. Their first event was on November 29th - all future events can be found on the Svelte Sirens website (3:50:45)</p></li><li><p>Rich Harris discussed creating libraries with SvelteKit, better ways to link packages when developing, and how SvelteKit helps with modern JavaScript library development (3:56:00)</p></li><li><p>Ken Kunz explained how finite state machines (and the svelte-fsm library) can make managing Svelte component states more... manageable. Examples from the talk are available on Ken's GitHub. (4:07:18)</p></li><li><p>Austin Crim connected learning to code on the web to learning how to play an instrument. By giving learners early wins and introducing the fundamentals through real-world apps, learning Svelte (and the fundamentals underneath) doesn't have to be a chore (4:21:50)</p></li><li><p>Jesse Skinner brought our legacy apps into the future by explaining how to use (and reuse) Svelte components within React (and even jQuery!) projects (4:32:30)</p></li><li><p>Jim Fisk and Stephanie Luz introduced Plenti and its theming tools to make building new Svelte sites much faster (4:59:00)</p></li><li><p>Evyatar Alush helped us all make (and maintain) better forms using a powerful validation library called Vest (5:08:55)</p></li><li><p>Dominik G. presented a fresh take on icon libraries - one that reduces the bundle size of applications and opens up the entire iconify library for use in any Svelte app (5:30:04)</p></li></ul><p>Thanks to Kevin and all the Svelte Society volunteers for pulling together such an amazing event! Excitingly, Kevin announced after the event that he will now be working full-time on Svelte Society! You can check out all the talks, broken up into individual videos for convenience, in this Svelte Society YouTube Playlist.</p><p>If you have feedback on the Svelte Summit, Kev is looking for feedback on the Svelte subreddit 👀</p>",
+      "image": "https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_400x400.png",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "title": "What's new in Svelte: November 2021",
+      "body": "<h1>With SvelteKit crossing the 80% complete mark, over 5000 stars on GitHub, and now having more usage than Sapper, there's never been a better time to try it out! Many in the community have, making for quite a large showcase this month...</h1><p>Also, don't miss out on Svelte Summit on November 20th - featuring speakers from around the world. Keep an eye out for a watch party in your area 👀</p><p>Now onto what's new!</p><h2>New in Svelte and SvelteKit</h2><ul><li><p>svelte.dev now runs on SvelteKit alongside sveltesociety.dev. svelte.dev is a relatively complicated site with live code editing, authentication, and a markdown-based blog - making it a great way for us to really test out SvelteKit</p></li><li><p>A new compiler option, <code>enableSourcemap</code>, provides more control over the compiler output for JS and CSS sourcemaps (<strong>3.44.0</strong>). With this new feature, SvelteKit and the Vite Svelte plugin can now properly handle environment variables in <code>.svelte</code> templates (See sveltejs/kit#720 and sveltejs/vite-plugin-svelte#201)</p></li><li><p>The Svelte Language Tools now support reading the configuration of the VS Code CSS settings (#1219)</p></li><li><p><code>vite-plugin-svelte</code> added a new <code>experimental.prebundleSvelteLibraries</code> option that makes it much faster to load Svelte libraries with many components like icon libraries and UI frameworks. The option can be set in the root of <code>svelte.config.js</code>. Please test it out and give us feedback!</p></li><li><p>SvelteKit will only route endpoints on the client, unless marked as <code>rel=\"external\"</code> - reducing the size of the client JS and making it easier to refactor the router in the future (2656)</p></li><li><p>SvelteKit no longer supports Node 12 (2604)</p></li><li><p>SvelteKit was upgraded from Vite 2.6.0 to Vite 2.6.12 fixing an issue where Vite would corrupt the Svelte runtime (https://github.com/vitejs/vite/issues/4306). It also included two fixes from the SvelteKit team to avoid or make diagnosing Vite issues in SvelteKit templates easier (https://github.com/vitejs/vite/pull/5192 and https://github.com/vitejs/vite/pull/5193). Vite 2.7 is currently available in beta with additional fixes for SSR</p></li></ul><p>To see all updates to Svelte and SvelteKit, check out the Svelte and SvelteKit changelog, respectively.</p><hr><h2>Community Showcase</h2><p><strong>Apps &amp; Sites</strong></p><ul><li><p>Tangent is a clean and powerful notes app for Mac &amp; Windows</p></li><li><p>The Pudding is a digital publication that explains ideas debated in culture with visual essays - rebuilt in SvelteKit</p></li><li><p>Power Switcher is an interactive overview of the development of the power supply in Switzerland, as energy sources migrate to cleaner sources</p></li><li><p>Sublive is a new way of making music by connecting musicians all over the world with a low-latency and high-quality audio network</p></li><li><p>Vibify helps you find hidden playlists within your music using your Spotify listening history</p></li><li><p>Browse Marvel Unlimited by Year is a SvelteKit site to see what issues are available on Marvel Unlimited for a given year</p></li><li><p>Files, a modern file explorer for Windows, has a new site rebuilt with SvelteKit</p></li><li><p>lil-hash is a simple URL shortener that produces easily rememberable and speakable shortened URLs</p></li><li><p>PWA Haven is a collection of small, fast, simple PWAs to replace native OS apps</p></li><li><p>DottoBit is a multi-color 16-bit drawing program with URL sharing built-in</p></li><li><p>Former Fast Document for Print is an invoice generator with beautiful designs, abilities for international languages and auto calculation</p></li><li><p>Helvetikon is a community maintained dictionary for the Swiss German language</p></li><li><p>Palitra App is a search-based color pallete generator</p></li></ul><p><strong>Podcasts Featuring Svelte</strong></p><ul><li><p>Svelte Radio dives into the tech behind the recently released Svelte Summit website and a bunch of other fun stuff!</p></li><li><p>PodRocket, LogRocket's podcast, talks Svelte with Rich Harris</p></li><li><p>PodRocket also dove deep into Elder.js with Nick Reese</p></li><li><p>Web Rush and Rich Harris talk about the differences between a SPA and MPA, what role the server rendering plays, what client side hydration is, and the state of modern tooling for developing an SPA or MPA</p></li><li><p>devtools.fm talks with Rich Harris about developing engaging data visualizations and building the tools of tomorrow</p></li></ul><p><strong>Educational Content</strong></p><ul><li><p>Have Single-Page Apps Ruined the Web? Rich Harris answers the controversial question at this year's Jamstack Conf</p></li><li><p>Svelte vs SvelteKit - What's The Difference? LevelUpTuts provides a quick guide to explaining the relationship between the two projects. You can check out the rest of Scott Tolinski's guides to Svelte in his new series, \"Weekly Svelte\"</p></li><li><p>WebJeda's SvelteKit Hooks series continues this month with Part 3 - Cookie Session Authentication</p></li><li><p>Writing Context Aware Styles in a Svelte App is a guide to writing self-contained components that are able to dynamically adapt to their parents</p></li><li><p>A Beginner’s Guide to SvelteKit takes a beginner-friendly look at both Svelte and SvelteKit and build out a simple web app showing profile pages of imaginary users</p></li><li><p>Svelte vs React: Ending the Debate is a historical take on the age-old argument</p></li><li><p>Svelte Snacks | Custom Events for Modal Actions walks through a solid implementation of Svelte's handy custom event system</p></li><li><p>What Svelte's accessibility warnings won't tell you explains how Svelte's a11y warnings work and why you shouldn't count on them to make your app accessible</p></li></ul><p><strong>Libraries, Tools &amp; Components</strong></p><ul><li><p>svelte-adapter-azure-swa is an adapter for Svelte apps that creates an Azure Static Web App, using an Azure function for dynamic server rendering</p></li><li><p>Inlang is a localization and internationalization toolkit that now supports SvelteKit</p></li><li><p>svelte-translate-tools extract/generate/compile translation files for your Svelte App at build time</p></li><li><p>@egjs/svelte-infinitegrid lets you implement various grids composed of different card elements whose sizes vary</p></li><li><p>svelte-reactive-css-preprocess makes it easier to update css variable values whenever your component state changes</p></li><li><p>Sveltegen is a CLI for simple and easy creation of actions, components, and routes</p></li><li><p>svelte-advanced-multistep-form helps to wrap form elements passing down styles to the component to be rendered, also it presents each form step in a ordered and stylish way</p></li><li><p>gQuery is a GraphQL Fetcher &amp; Cache for SvelteKit</p></li><li><p>date-picker-svelte is a date and time picker for Svelte</p></li><li><p>TwelveUI is a Svelte component library with accessibility built-in</p></li><li><p>svelte-outclick is a Svelte component that allows you to listen for clicks outside of an element, by providing you an outclick event</p></li><li><p>svelte-zero-api lets you use SvelteKit APIs like client functions - with support for Typescript</p></li><li><p>svelte-recaptcha-v2 is a Google reCAPTCHA v2 implementation for Svelte SPA, SSR and sveltekit static sites.</p></li><li><p>Svelte Body lets you apply styles to the body in routes - designed to work with SvelteKit and Routify.</p></li><li><p>svelte-debug-console is a debug.js implementation for Svelte SPA, SSR and sveltekit static sites that lets you see your debug statements in the browser.</p></li><li><p>SVEO is a dependency-free approach to declare metadata on SvelteKit pages</p></li><li><p>@svelte-drama/suspense is a Svelte component that implements the core idea of React's <code>&lt;Suspense&gt;</code>. Also check out SWR for Svelte to make refetching even easier.</p></li><li><p>sveltekit-adapter-browser-extension is an adapter for SvelteKit which turns your app into a cross-platform browser extension</p></li></ul><p>Check out the community site sveltesociety.dev for more tools, templates, adders and adapters from across the Svelte ecosystem.</p><p>Looking for more Svelte goodness? Join us on Reddit or Discord!</p>",
+      "image": "https://miro.medium.com/max/2880/1*oHCbzzQSSmDF9icaxCk3iw.jpeg",
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "title": "Vue 2.6 released",
+      "body": "<p>Yesterday we just celebrated the 5th Vueniversary — today we are excited to announce the release of Vue 2.6 “Macross”!</p><p>In the past year, we spent a lot of time working on the new CLI and prototyping for 3.0. As a result, Vue core 2.x hasn’t received major updates in quite a while. It’s about time! This release combines a number of substantial improvements, internal changes and new features which are highlighted in this post. For full details, make sure to also check out the full release note on GitHub.</p><h1><strong>Slots: New Syntax, Performance Improvements &amp; Alignment with 3.0</strong></h1><p>Slots is an important mechanism that enables flexible component composition in Vue. During the prototyping for 3.0 we discovered a number of ways to improve it. Some of these can be introduced without breaking changes, which allows us to ship them in a 2.x minor release. For those that do require breaking changes, we are also trying to provide progressive alternatives in 2.x that would make future migrations easier.</p><h2><strong>New Syntax</strong></h2><p>The first step is the new syntax of scoped slots. We proposed, discussed and experimented with a number of different designs (1, 2, 3) and eventually landed on the new <code>v-slot</code> syntax outlined in this RFC. Here is a brief example using named slots:</p>",
+      "image": "https://miro.medium.com/max/1200/1*gNx3jSKwLvYhG12fznDyjQ.jpeg",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "title": "Plans for the Next Iteration of Vue.js",
+      "body": "<p>Last week at Vue.js London I gave a brief sneak peek of what’s coming in the next major version of Vue. This post provides an in-depth overview of the plan.</p><h1><strong>Why a new major version?</strong></h1><p>Vue 2.0 was released exactly two years ago (how time flies!). During this period, the core has remained backwards compatible with five minor releases. We’ve accumulated a number of ideas that would bring improvements, but they were held off because they would result in breaking changes. At the same time, the JavaScript ecosystem and the language itself has been evolving rapidly. There are greatly improved tools that could enhance our workflow, and many new language features that could unlock simpler, more complete, and more efficient solutions to the problems Vue is trying to solve. What’s more exciting is that we are seeing ES2015 support becoming a baseline for all major evergreen browsers. Vue 3.0 aims to leverage these new language features to make Vue core smaller, faster, and more powerful.</p><p>Vue 3.0 is currently in prototyping phase, and we have already implemented a runtime close to feature-parity with 2.x. <strong>Many of the items listed below are either already implemented, or confirmed to be feasible. Ones that are not yet implemented or still in exploration phase are marked with a *.</strong></p><h1><strong>The Details</strong></h1><h2><strong>High-Level API Changes</strong></h2><blockquote><p><em>TL;DR: Everything except render function API and scoped-slots syntax will either remain the same or can be made 2.x compatible via a compatibility build.</em></p></blockquote><p>Since it’s a new major, there is going to be some breaking changes. However, we take backwards compatibility seriously, so we want to start communicating these changes as soon as possible. Here’s the currently planned public API changes:</p><ul><li><p>Template syntax will remain 99% the same. There may be small tweaks in scoped slots syntax, but other than that we have no plans to change anything else for templates.</p></li><li><p>̶3̶.̶0̶ ̶w̶i̶l̶l̶ ̶s̶u̶p̶p̶o̶r̶t̶ ̶c̶l̶a̶s̶s̶-̶b̶a̶s̶e̶d̶ ̶c̶o̶m̶p̶o̶n̶e̶n̶t̶s̶ ̶n̶a̶t̶i̶v̶e̶l̶y̶ . <em>Update: the Class API draft has been dropped. We have published a new function-based API proposal that provides better logic composition, better TypeScript support, and compatible with 2.x API.</em></p></li><li><p>Mixins will still be supported.*</p></li><li><p>Top level APIs will likely receive an overhaul to avoid globally mutating the Vue runtime when installing plugins. Instead, plugins will be applied and scoped to a component tree. This will make it easier to test components that rely on specific plugins, and also make it possible to mount multiple Vue applications on the same page with different plugins, but using the same Vue runtime.* <em>(Update: related RFC)</em></p></li><li><p>Functional components can finally be plain functions —however, async components will now need to be explicitly created via a helper function. <em>(Update: related RFC)</em></p></li><li><p>The part that will receive the most changes is the Virtual DOM format used in render functions. We are currently collecting feedback from major library authors and will be sharing more details as we are more confident of the changes, but as long as you don’t heavily rely on hand-written (non-JSX) render functions in your app, upgrading should be a reasonably straightforward process.</p></li></ul>",
+      "image": "https://miro.medium.com/max/1400/1*vFC8tDUGLlXIiqT7ymf3xg.png",
+      "id": 10
+    },
+    {
+      "userId": 5,
+      "title": "Next.js 12",
+      "body": "<p>As we announced at&nbsp;Next.js Conf, Next.js 12 is our biggest release ever:</p><ul><li><p><strong>Rust Compiler</strong>: ~3x faster Fast Refresh and ~5x faster builds</p></li><li><p><strong>Middleware (beta)</strong>: Enabling full flexibility in Next.js with code over configuration</p></li><li><p><strong>React 18 Support</strong>: Native Next.js APIs are now supported, as well as Suspense</p></li><li><p><code>&lt;Image /&gt;</code> AVIF Support: Opt-in for 20% smaller images</p></li><li><p><strong>Bot-aware ISR Fallback</strong>: Optimized SEO for web crawlers</p></li><li><p><strong>Native ES Modules Support</strong>: Aligning with the standardized module system</p></li><li><p><strong>URL Imports (alpha)</strong>: Import packages from any URL, no installs required</p></li><li><p><strong>React Server Components (alpha)</strong>: Try it today, including SSR streaming</p></li></ul><p>Update today by running <code>npm i next@latest</code>.</p><h2><strong>Faster builds and Fast Refresh with Rust compiler</strong></h2><p>We want to make every Next.js application build faster for production, and get instant feedback in local development. Next.js 12 includes a brand new Rust compiler that takes advantage of native compilation.</p><p>Our Rust compiler is built on <strong>SWC</strong>, an open platform for the next generation of fast tooling. We've optimized bundling and compiling with ~<strong>3x faster refresh</strong> locally and ~<strong>5x faster builds</strong> for production. Other improvements and features include:</p>",
+      "image": "https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg",
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "title": "Announcing the Improved Next.js Discord Community",
+      "body": "<p>We're thrilled to announce our improved Next.js Discord community enabling developers to chat about Next.js, ask questions, show off their projects, and find Next.js jobs. Some of the new Discord community features include:</p><ul><li><p>A <strong>brand new member onboarding flow</strong> to make it easier to navigate the Discord.</p></li><li><p>A <strong>revised channel structure</strong> with new channels like <code>#releases</code>, <code>#jobs</code>, and <code>#resources</code>.</p></li><li><p>A custom <strong>Discord bot</strong> for spam detection and moderation.</p></li></ul><h2><strong>Community Mission</strong></h2><p>Our goal with the Next.js Discord community is to further our mission of <strong>enabling developers to build and publish wonderful things</strong> by lowering the barrier to entry. Everything we do in the community will be focused on this mission and building a community around the open platform of Next.js.</p><p>We want a space where Next.js and React developers can interact with each other, keep up with the latest Next.js &amp; React news, and collaborate with each other.</p><p>Let's dive into the new community features.</p><h2><strong>New Member Onboarding Flow</strong></h2><p>We've revamped the new member onboarding to make it easier to get up and running with Discord and join relevant channels. Here's a screenshot of a question on our welcome screen you see upon joining, which adds you to certain channels depending on what emojis you react with.</p><p></p><p></p>",
+      "image": "https://nextjs.org/static/blog/discord/twitter-card.png",
+      "id": 12
     }
   ]
 }
