@@ -1,18 +1,7 @@
 
 {
   "users": [
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "bs": "harness real-time e-markets"
-      }
-    },
+   
     {
       "isLogin": "false",
       "isAdmin": "false",
@@ -51,30 +40,7 @@
     }
   ],
   "posts": [
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "Vercel",
-      "body": "Versel opkøber Svelte"
-    },
-    {
-      "userId": 2,
-      "id": 2,
-      "title": "Mircrosoft",
-      "body": "body indhold"
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "title": "title",
-      "body": "body indhold"
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "title": "title",
-      "body": "body indhold"
-    },
+  
     {
       "userId": 2,
       "title": "React Conf 2021 Recap",
