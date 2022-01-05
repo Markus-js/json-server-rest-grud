@@ -9,6 +9,7 @@
       "password": "admin",
       "profileImage": "https://thumbs.dreamstime.com/b/happy-person-portrait-smiling-woman-tanned-skin-curly-hair-happy-person-portrait-smiling-young-friendly-woman-197501184.jpg",
       "name": "Jane Angelo",
+      "banner": "https://media-exp1.licdn.com/dms/image/C4E16AQHmajTBEIT_2w/profile-displaybackgroundimage-shrink_350_1400/0/1637231531104?e=1646870400&v=beta&t=NbnlZ-q_lTT_6ONzTomyWfe963jermke4fufnFlj13A",
       "id": 2
     },
     {
@@ -17,6 +18,7 @@
       "username": "admin",
       "password": "admin",
       "profileImage": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
+      "banner": "https://media-exp1.licdn.com/dms/image/C4E16AQHmajTBEIT_2w/profile-displaybackgroundimage-shrink_350_1400/0/1637231531104?e=1646870400&v=beta&t=NbnlZ-q_lTT_6ONzTomyWfe963jermke4fufnFlj13A",
       "name": "Louise Robert",
       "id": 3
     },
@@ -26,6 +28,7 @@
       "username": "maba",
       "password": "markus",
       "profileImage": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "banner": "https://media-exp1.licdn.com/dms/image/C4E16AQHmajTBEIT_2w/profile-displaybackgroundimage-shrink_350_1400/0/1637231531104?e=1646870400&v=beta&t=NbnlZ-q_lTT_6ONzTomyWfe963jermke4fufnFlj13A",
       "name": "Liam Pérez",
       "id": 4
     },
@@ -35,6 +38,7 @@
       "username": "user1",
       "password": "markus",
       "profileImage": "https://thumbs.dreamstime.com/b/closeup-portrait-serious-years-old-caucasian-white-man-white-background-white-t-shirt-confident-happy-smart-modern-man-167196461.jpg",
+      "banner": "https://media-exp1.licdn.com/dms/image/C4E16AQHmajTBEIT_2w/profile-displaybackgroundimage-shrink_350_1400/0/1637231531104?e=1646870400&v=beta&t=NbnlZ-q_lTT_6ONzTomyWfe963jermke4fufnFlj13A",
       "name": "William Kristensen",
       "id": 5
     }
