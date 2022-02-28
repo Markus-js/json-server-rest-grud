@@ -2,16 +2,19 @@
 {
   "users": [
     {
-      "name": "John",
-      "age" : 25
+      "name": "Sofie",
+      "age" : 25,
+      "img" : "https://thumbs.dreamstime.com/b/happy-person-portrait-smiling-woman-tanned-skin-curly-hair-happy-person-portrait-smiling-young-friendly-woman-197501184.jpg"
     },
     {
-      "name": "John",
-      "age" : 25
+      "name": "Bill",
+      "age" : 66,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9gqFKRn28xKHD1CAbEevdzsLmsv5yQkGnQ&usqp=CAU"
     },
     {
-      "name": "John",
-      "age" : 25
+      "name": "Greta",
+      "age" : 19,
+      "img" : "https://www.gannett-cdn.com/presto/2019/09/23/USAT/e765d198-5f99-4a00-9402-a5fcb754cdc0-VPC_GRETA_THUNBERG_EMOTIONAL_DESK_THUMB.jpg?width=388&height=388&crop=1080,1080,x420,y0"
     }
   
   ]
