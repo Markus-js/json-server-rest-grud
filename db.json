@@ -1,1377 +1,372 @@
 {
+  "value" : [
 
-  "value": [
-    {
-      "Team": "h1we010122",
-      "StartDate": "2022-03-18T13:00:00+01:00",
-      "Subject": "Mediegrafiker",
-      "Education": "Mediegrafiker",
-      "Room": "P025"
-      },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-18T13:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-18T11:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-18T12:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P025"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-18T11:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-18T12:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-18T08:20:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-18T09:30:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-18T13:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-18T07:15:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "gwe010122",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "HTML5/CSS",
-  "Education": "Webudvikler",
-  "Room": "P024"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-18T11:00:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-18T12:00:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030522",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030522",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-18T07:15:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-18T09:30:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030522",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030522",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030522",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "ikp030422",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Praktik MEK",
-  "Education": "Introkurser",
-  "Room": "SUs151"
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-18T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-18T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-18T07:15:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-17T07:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-18T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-18T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-18T07:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-18T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h0gr010122f",
-  "StartDate": "2022-03-16T07:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Grafisk teknik.",
-  "Room": ""
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-18T11:00:00+01:00",
-  "Subject": "Samarbejde",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-18T09:30:00+01:00",
-  "Subject": "Samarbejde",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-18T08:20:00+01:00",
-  "Subject": "Samarbejde",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-18T07:15:00+01:00",
-  "Subject": "Samarbejde",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Teknologi",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Teknologi",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-15T13:00:00+01:00",
-  "Subject": "Samarbejde",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "Samarbejde",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Teknologi",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Teknologi",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Teknologi",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "ESEV evalu",
-  "Education": "Introkurser",
-  "Room": "C112"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "B102"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "B102"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "B102"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "B102"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "C112"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-15T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "C112"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-15T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "C112"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Naturfag",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Naturfag",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Naturfag",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Naturfag",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Naturfag",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "h2gr020122",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Naturfag",
-  "Education": "Grafisk teknik.",
-  "Room": "N112b"
-  },
-  {
-  "Team": "iiw030522",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030522",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030522",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030522",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030522",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Matematik",
-  "Education": "Webudvikler",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-15T09:30:00+01:00",
-  "Subject": "Matematik",
-  "Education": "Webudvikler",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-15T07:15:00+01:00",
-  "Subject": "Matematik",
-  "Education": "Webudvikler",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-15T13:00:00+01:00",
-  "Subject": "Matematik",
-  "Education": "Webudvikler",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-15T11:00:00+01:00",
-  "Subject": "Matematik",
-  "Education": "Webudvikler",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "Matematik",
-  "Education": "Webudvikler",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h1we010122",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Avanceret CSS",
-  "Education": "Data/komm.udd.",
-  "Room": "P025"
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-15T13:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-17T13:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "h0mg010122f",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Mediegrafiker",
-  "Room": ""
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-15T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-15T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-15T07:15:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "iiw030422",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Brobyg teknisk",
-  "Room": "P027-3"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-15T07:15:00+01:00",
-  "Subject": "Praktik",
-  "Education": "Introkurser",
-  "Room": "C112"
-  },
-  {
-  "Team": "imo030322",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "udd guides",
-  "Education": "Introkurser",
-  "Room": "B102"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-15T07:15:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-15T11:00:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-15T09:30:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030522",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Brobyg teknisk",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030422",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Introkurser",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030522",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Brobyg teknisk",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030522",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Brobyg teknisk",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030522",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Brobyg teknisk",
-  "Room": "E102S"
-  },
-  {
-  "Team": "ild030522",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Studievejl",
-  "Education": "Brobyg teknisk",
-  "Room": "E102S"
-  },
-  {
-  "Team": "gel010322",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Dansk",
-  "Education": "Brobyg teknisk",
-  "Room": "P004"
-  },
-  {
-  "Team": "gel010322",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Dansk",
-  "Education": "Brobyg teknisk",
-  "Room": "P004"
-  },
-  {
-  "Team": "gel010322",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Dansk",
-  "Education": "Elektriker",
-  "Room": "P004"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "matematik",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "matematik",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "matematik",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-15T07:15:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-15T09:30:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "gdt010322",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Netv.grundl",
-  "Education": "Brobyg teknisk",
-  "Room": "C102S"
-  },
-  {
-  "Team": "gdt010322",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Netv.grundl",
-  "Education": "Brobyg teknisk",
-  "Room": "C102S"
-  },
-  {
-  "Team": "gdt010322",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Netv.grundl",
-  "Education": "Brobyg teknisk",
-  "Room": "C102S"
-  },
-  {
-  "Team": "gdt010322",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Netv.grundl",
-  "Education": "Brobyg teknisk",
-  "Room": "C102S"
-  },
-  {
-  "Team": "gdt010322",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Netv.grundl",
-  "Education": "Brobyg teknisk",
-  "Room": "C102S"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "matematik",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "matematik",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-15T11:00:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-15T13:00:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "ggr010122",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Graf.tekn.",
-  "Education": "Grafisk teknik.",
-  "Room": "N120"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-15T13:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-16T07:15:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-16T08:20:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-16T09:30:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-16T11:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-16T12:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-16T13:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-15T07:15:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-15T08:20:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-15T09:30:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-15T11:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "h1we080121",
-  "StartDate": "2022-03-15T12:00:00+01:00",
-  "Subject": "Praktisk web",
-  "Education": "Webudvikler",
-  "Room": "P026"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-17T09:30:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-17T11:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-17T07:15:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-17T08:20:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-18T08:20:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-18T09:30:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-17T12:00:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  },
-  {
-  "Team": "gmg010122",
-  "StartDate": "2022-03-18T07:15:00+01:00",
-  "Subject": "Mediegrafiker",
-  "Education": "Mediegrafiker",
-  "Room": "P027-4"
-  }
+       {
+           "Team":"gmg010122",
+          "StartDate":"2022-03-00T04:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker",
+          "Room":"P027-4"},
+
+       {"Team":"gmg010122","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+       {"Team":"gmg010122","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+
+
+
+
+{"Team":"gwe010122","StartDate":"2022-03-00T04:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-01T04:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-02T05:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-03T05:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-04T06:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-05T06:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-06T07:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-07T07:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-08T08:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-09T08:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-10T09:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-11T09:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-12T10:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-13T10:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-14T11:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-15T11:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-16T12:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-17T12:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-18T13:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-19T13:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-20T14:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-21T14:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-22T15:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-23T15:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-24T16:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-25T16:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-26T17:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-27T17:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-28T18:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-29T18:30:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+{"Team":"gwe010122","StartDate":"2022-03-30T19:00:00+01:00","Subject":"HTML5/CSS","Education":"Webudvikler","Room":"P024"},
+
+
+{"Team":"ikp030422","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+{"Team":"ikp030422","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Praktik MEK","Education":"Introkurser","Room":"SUs151"},
+
+
+{"Team":"h2gr020122","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+{"Team":"h2gr020122","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Samarbejde","Education":"Grafisk teknik.","Room":"N112b"},
+
+
+{"Team":"iiw030522","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+{"Team":"iiw030522","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Praktik","Education":"Introkurser","Room":"P027-3"},
+
+
+{"Team":"ild030422","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+{"Team":"ild030422","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Studievejl","Education":"Introkurser","Room":"E102S"},
+
+
+{"Team":"ild030522","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+{"Team":"ild030522","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Studievejl","Education":"Brobyg teknisk","Room":"E102S"},
+
+
+{"Team":"ggr010122","StartDate":"2022-03-00T04:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-01T04:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-02T05:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-03T05:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-04T06:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-05T06:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-06T07:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-07T07:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-08T08:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-09T08:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-10T09:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-11T09:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-12T10:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-13T10:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-14T11:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-15T11:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-16T12:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-17T12:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-18T13:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-19T13:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-20T14:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-21T14:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-22T15:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-23T15:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-24T16:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-25T16:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-26T17:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-27T17:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-28T18:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-29T18:30:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+{"Team":"ggr010122","StartDate":"2022-03-30T19:00:00+01:00","Subject":"matematik","Education":"Grafisk teknik.","Room":"N120"},
+
+
+{"Team":"h1we080121","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+{"Team":"h1we080121","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P026"},
+
+
+{"Team":"gmg010122","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+{"Team":"gmg010122","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},
+
+
+{"Team":"iiw030422","StartDate":"2022-03-00T04:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-01T04:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-02T05:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-03T05:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-04T06:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-05T06:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-06T07:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-07T07:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-08T08:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-09T08:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-10T09:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-11T09:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-12T10:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-13T10:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-14T11:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-15T11:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-16T12:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-17T12:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-18T13:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-19T13:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-20T14:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-21T14:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-22T15:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-23T15:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-24T16:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-25T16:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-26T17:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-27T17:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-28T18:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-29T18:30:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"},
+{"Team":"iiw030422","StartDate":"2022-03-30T19:00:00+01:00","Subject":"Praktik","Education":"Brobyg teknisk","Room":"P027-3"}
   ]
-  }
+}
